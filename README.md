@@ -28,9 +28,8 @@ myRust/
    ```
 2. Clone this repositori
    ```sh
-[   git clone https://github.com/username/myRus.git
-   cd myRus](https://github.com/FaizNation/myRust.git)
-   
+   (https://github.com/FaizNation/myRust.git)
+   ```
 3. Jalankan contoh kode
    ```sh
    cargo run
