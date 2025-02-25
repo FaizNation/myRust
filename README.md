@@ -13,23 +13,23 @@ This repository was created specifically for my learning journey in the **Rust**
 ## 📂 Folder Structure
 
 ```
-myRus/
+myRust/
 │── src/           # Contoh kode sumber
 │── projects/      # Proyek mini untuk latihan
 │── docs/          # Dokumentasi dan catatan belajar pribadi
 │── README.md      # Kamu sedang membaca ini! 👀
 ```
 
-## 🚀 Cara Menjalankan
+## 🚀 How to Run
 
-1. Pastikan Rust & Cargo sudah terinstal 🦀
+1.Make sure Rust & Cargo is installed 🦀
    ```sh
-   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+[   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh](https://rustup.rs/)
    ```
-2. Clone repositori ini
+2. Clone this repositori
    ```sh
-   git clone https://github.com/username/myRus.git
-   cd myRus
+[   git clone https://github.com/username/myRus.git
+   cd myRus](https://github.com/FaizNation/myRust.git)
    ```
 3. Jalankan contoh kode
    ```sh
