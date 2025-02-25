@@ -24,7 +24,7 @@ myRust/
 
 1.Make sure Rust & Cargo is installed 🦀
    ```sh
-[   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh](https://rustup.rs/)
+  curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh](https://rustup.rs/)
    ```
 2. Clone this repositori
    ```sh
